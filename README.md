@@ -46,7 +46,7 @@ And keep the notebook in the same working directory as the file folder.
 
 2. Example list of commands for getting started:
 
-- `$ git clone https://github.sydney.edu.au/mixu4998/2021-DATA3406-PRAC04-Group01.git`
+- `$ git clone git@github.com:Bloombergchu/Platform_Dissemination.git`
 
 - `$ pip install -r requirements.txt`
 
